@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7ab8159f.chunk.css",
-    "main.js": "/portfolio/static/js/main.938003b6.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.938003b6.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.8fed2963.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8fed2963.js.map",
-    "static/js/2.b805011e.chunk.js": "/portfolio/static/js/2.b805011e.chunk.js",
-    "static/js/2.b805011e.chunk.js.map": "/portfolio/static/js/2.b805011e.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.7ab8159f.chunk.css.map": "/portfolio/static/css/main.7ab8159f.chunk.css.map",
-    "static/js/2.b805011e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b805011e.chunk.js.LICENSE.txt",
-    "static/media/blockchain-consensus.ec9b0736.png": "/portfolio/static/media/blockchain-consensus.ec9b0736.png",
-    "static/media/connectedGraph1.8a91960e.jpg": "/portfolio/static/media/connectedGraph1.8a91960e.jpg",
-    "static/media/desert-sunset.15d2fa15.jpg": "/portfolio/static/media/desert-sunset.15d2fa15.jpg",
-    "static/media/kubernetes-cluster.962b28cb.png": "/portfolio/static/media/kubernetes-cluster.962b28cb.png"
+    "main.css": "/static/css/main.7ab8159f.chunk.css",
+    "main.js": "/static/js/main.1987d736.chunk.js",
+    "main.js.map": "/static/js/main.1987d736.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
+    "static/js/2.b805011e.chunk.js": "/static/js/2.b805011e.chunk.js",
+    "static/js/2.b805011e.chunk.js.map": "/static/js/2.b805011e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7ab8159f.chunk.css.map": "/static/css/main.7ab8159f.chunk.css.map",
+    "static/js/2.b805011e.chunk.js.LICENSE.txt": "/static/js/2.b805011e.chunk.js.LICENSE.txt",
+    "static/media/blockchain-consensus.ec9b0736.png": "/static/media/blockchain-consensus.ec9b0736.png",
+    "static/media/connectedGraph1.8a91960e.jpg": "/static/media/connectedGraph1.8a91960e.jpg",
+    "static/media/desert-sunset.15d2fa15.jpg": "/static/media/desert-sunset.15d2fa15.jpg",
+    "static/media/kubernetes-cluster.962b28cb.png": "/static/media/kubernetes-cluster.962b28cb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fed2963.js",
+    "static/js/runtime-main.2fd7dc15.js",
     "static/js/2.b805011e.chunk.js",
     "static/css/main.7ab8159f.chunk.css",
-    "static/js/main.938003b6.chunk.js"
+    "static/js/main.1987d736.chunk.js"
   ]
 }

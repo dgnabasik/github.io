@@ -1,9 +1,9 @@
 {
   "short_name": "portfolio",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "name": "portfolio",
   "private": true,
-  "homepage": "https://dgnabasik.github.io/portfolio",
+  "homepage": "https://dgnabasik.github.io/",
   "dependencies": {
       "gh-pages": "^2.1.1",
       "react": "^16.8.3",
