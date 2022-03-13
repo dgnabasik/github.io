@@ -2,7 +2,21 @@
   "name": "portfolio",
   "version": "1.0.1",
   "private": false,
+  "secure": false,
+  "license": "GNU General Public License (GPL)",
+  "description": "portfolio",
+  "type": "module",
+  "main": "index.tsx",
   "homepage": "https://dgnabasik.github.io/portfolio/",
+  "engines": {
+    "node": ">= 16.14.0",
+    "yarn": ">= 1.22.17",
+    "npm": ">= 8.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dgnabasik/portfolio.git"
+  },
   "dependencies": {
     "gh-pages": "3.2.3",
     "react": "17.0.2",
